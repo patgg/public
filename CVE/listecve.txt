@@ -1,0 +1,16 @@
+https://www.cvedetails.com/vulnerability-list/vendor_id-315/product_id-101578/year-$annee/F5-Nginx.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-336/product_id-575/year-$annee/Postgresql-Postgresql.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-12615/product_id-24751/year-$annee/Privoxy-Privoxy.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-2337/product_id-4096/year-$annee/Wordpress-Wordpress.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-452/product_id-3678/year-$annee/Mozilla-Thunderbird.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-452/product_id-3264/year-$annee/Mozilla-Firefox.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-93/product_id-19116/year-$annee/Oracle-JDK.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-887/year-$annee/Apache-Tomcat.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-12287/product_id-23219/year-$annee/Torproject-TOR.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-23471/product_id-86660/year-$annee/Geti2p-I2P.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-74/product_id-128/year-$annee/PHP-PHP.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-12010/product_id-22503/year-$annee/Mariadb-Mariadb.html
+https://www.cvedetails.com/vulnerability-list/vendor_id-6485/product_id-10948/year-$annee/Dovecot-Dovecot.html
+https://tomcat.apache.org/security-9.html
+https://www.postgresql.org/support/security/16/
+https://httpd.apache.org/security/vulnerabilities_24.html
